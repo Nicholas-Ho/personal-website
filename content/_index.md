@@ -10,4 +10,10 @@ draft = false
 
 ### Get in touch
 
-{{< button href="mailto:placeholder@example.com" >}}{{< icon "envelope" >}} Email{{< /button >}}    {{< button href="https://github.com/Nicholas-Ho" >}}{{< icon "github" >}} GitHub{{< /button >}}    {{< button href="https://www.linkedin.com/in/nicholas-ho-jx" >}}{{< icon "linkedin" >}} LinkedIn{{< /button >}}
+{{<unsafe>}}
+    <div class="flex gap-4">
+        {{< button href="mailto:placeholder@example.com" >}}{{< icon "envelope" >}} Email{{< /button >}}
+        {{< button href="https://github.com/Nicholas-Ho" >}}{{< icon "github" >}} GitHub{{< /button >}}
+        {{< button href="https://www.linkedin.com/in/nicholas-ho-jx" >}}{{< icon "linkedin" >}} LinkedIn{{< /button >}}
+    </div>
+{{</unsafe>}}
