@@ -1,6 +1,6 @@
 +++
-title = 'Homepage'
-date = 2026-02-24T20:38:07+00:00
+title = 'Sample Post'
+date = 2026-02-24
 draft = false
 +++
 

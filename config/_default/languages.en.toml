@@ -1,0 +1,7 @@
+[params.author]
+name = "Nicholas Ho"
+headline = "DevSecOps Engineer"
+bio = "A software engineer with a focus on DevSecOps"
+links = [
+  { github = "https://github.com/Nicholas-Ho" }
+]

@@ -1,7 +1,0 @@
-title = 'Nicholas Personal Website'
-theme = 'blowfish'
-languageCode = 'en-sg'
-
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
