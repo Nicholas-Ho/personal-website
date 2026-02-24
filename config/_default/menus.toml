@@ -10,12 +10,10 @@
 
 [[main]]
   pre = "github"
-  name = "GitHub"
   url = "https://github.com/Nicholas-Ho"
   weight = 30
 
 [[main]]
   pre = "linkedin"
-  name = "LinkedIn"
   url = "https://linkedin.com/in/nicholas-ho-jx"
   weight = 30
