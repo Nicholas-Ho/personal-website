@@ -10,4 +10,4 @@ draft = false
 
 ### Get in touch
 
-{{ partial "contact-button-row.html" }}
+{{ partial "contact-button-row.html" . }}
