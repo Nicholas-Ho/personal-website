@@ -10,4 +10,8 @@ draft = false
 
 ### Get in touch
 
+{{< button href="mailto:placeholder@example.com" >}}{{< icon "envelope" >}} Email{{< /button >}} &nbsp; &nbsp; &nbsp; &nbsp;
+{{< button href="https://github.com/Nicholas-Ho" >}}{{< icon "github" >}} GitHub{{< /button >}} &nbsp; &nbsp; &nbsp; &nbsp;
+{{< button href="https://www.linkedin.com/in/nicholas-ho-jx" >}}{{< icon "linkedin" >}} LinkedIn{{< /button >}}
+
 {{ partial "contact-button-row.html" . }}
