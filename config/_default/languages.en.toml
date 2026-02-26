@@ -2,6 +2,7 @@
 name = "Nicholas Ho JX"
 headline = "DevSecOps Engineer"
 bio = "A software engineer with a focus on DevSecOps"
+image = "assets/images/nicholas-profile.png"
 links = [
   { github = "https://github.com/Nicholas-Ho" },
   { linkedin = "https://www.linkedin.com/in/nicholas-ho-jx" }
