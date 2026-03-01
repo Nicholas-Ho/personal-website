@@ -1,4 +1,6 @@
 colorScheme = "blowfish"
+disableImageOptimization = false
+defaultBackgroundImage = "img/singapore-skyline.jpg"
 
 [homepage]
   layout = "background"
@@ -13,3 +15,15 @@ colorScheme = "blowfish"
 
 [header]
   layout = "fixed"
+
+[article]
+  showHero = true
+  heroStyle = "background" 
+  showSummary = true
+  showTableOfContents = true
+  showRelatedContent = false
+
+[list]
+  showCards = true
+  groupByYear = false
+  cardView = true
