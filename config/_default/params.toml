@@ -4,3 +4,12 @@ colorScheme = "blowfish"
   layout = "background"
   homepageImage = "img/singapore-skyline.jpg"
   layoutBackgroundBlur = true
+  showRecent = true
+  showRecentItems = 6
+  showMoreLink = true
+  showMoreLinkDest = "/posts/"
+  cardView = true
+  cardViewScreenWidth = false
+
+[header]
+  layout = "fixed"
