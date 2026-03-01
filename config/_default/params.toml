@@ -9,7 +9,7 @@ defaultBackgroundImage = "img/singapore-skyline.jpg"
   showRecent = true
   showRecentItems = 6
   showMoreLink = true
-  showMoreLinkDest = "/posts/"
+  showMoreLinkDest = "posts"
   cardView = true
   cardViewScreenWidth = false
 
