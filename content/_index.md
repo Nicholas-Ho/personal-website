@@ -13,9 +13,3 @@ draft = false
 ☁️ I manage AWS cloud infrastructure using Terraform and Gruntwork patterns to build scalable, consistent, and production‑ready environments.
 
 🔧 I work across core platform areas including secrets management, PKI, networking, and observability with Datadog, ensuring systems are secure, reliable, and fully observable.
-
----
-
-### Get in touch
-
-{{< contact-button-row >}}
