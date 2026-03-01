@@ -1,2 +1,6 @@
 colorScheme = "blowfish"
-homepage.layout = "profile"
+
+[homepage]
+  layout = "background"
+  homepageImage = "img/singapore-skyline.jpg"
+  layoutBackgroundBlur = true
