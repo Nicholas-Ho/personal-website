@@ -8,8 +8,8 @@ draft = false
 
 ---
 
-✨ I work across the DevOps lifecycle, developing CI/CD pipelines and automating engineering workflows to help teams deliver faster, safer, and with fewer manual steps.
+✨ I work across the DevOps lifecycle, developing CI/CD pipelines with GitLab and automating engineering workflows to help teams deliver faster, safer, and with fewer manual steps.
 
-☁️ I manage AWS cloud infrastructure using Terraform and Gruntwork patterns to build scalable, consistent, and production‑ready environments.
+☁️ I manage AWS cloud infrastructure using Terraform and Ansible to build scalable, consistent, and production‑ready environments.
 
 🔧 I work across core platform areas including secrets management, PKI, networking, and observability with Datadog, ensuring systems are secure, reliable, and fully observable.
