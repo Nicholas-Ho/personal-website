@@ -7,7 +7,7 @@ showTableOfContents = false
 
 ## Hi, I'm Nicholas.
 
-I’m a Technology Graduate Associate at the London Stock Exchange Group (LSEG), working in Post Trade Engineering with a focus on DevSecOps. In my day job, I mainly work on CI/CD workflows and manage AWS cloud infrastructure. I also often deal with service observability, artifact management and secrets management. Some of the technologies I work with on a regular basis include GitLab, Terraform (with Terragrunt), Ansible and Datadog.
+I’m a Technology Graduate Associate at the **London Stock Exchange Group (LSEG)**, working in Post Trade Engineering with a focus on DevSecOps. In my day job, I mainly work on CI/CD workflows and manage AWS cloud infrastructure. I also often deal with service observability, artifact management and secrets management. Some of the technologies I work with on a regular basis include GitLab, Terraform (with Terragrunt), Ansible and Datadog.
 
 I graduated from the **University of Cambridge** in 2025 with a Masters of Engineering and a Bachelor of Arts (Engineering), with dual specialisations in Information Engineering and Bioengineering. I have received numerous awards of acadmic distinction, including the Corpus Christi College Foundation Scholarship - the highest undergraduate honour in the college - and the Best Student in Engineering Area: Bioengineering.
 
